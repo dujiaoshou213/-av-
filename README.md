@@ -1,5 +1,5 @@
 # -搜av导航-
-![搜av导航图标](https://souav2.top/logo.png) PS:名称可以为空
+![搜av导航图标](https://souav2.top/logo.png) 
 
 ### 搜av导航永久地址发布页
 **https://souav1.top**
